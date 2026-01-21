@@ -43,7 +43,7 @@ export default function Home() {
     email: "hello@example.com",
     githubUrl: "https://github.com",
     linkedinUrl: "https://linkedin.com",
-    resumeUrl: "/resume.pdf"
+    resumeUrl: "/assets/resume.pdf"
   };
 
   return (
